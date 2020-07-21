@@ -95,17 +95,17 @@ $*1::
 	
 $*2::
 	Send, {2}
-	SetTimer, Two, 500
+	SetTimer, Two, 54000
 	return
 	
 $*3::
 	Send, {3}
-	SetTimer, Three, 500
+	SetTimer, Three, 54000
 	return
 	
 $*4::
 	Send, {4}
-	SetTimer, Four, 500
+	SetTimer, Four, 54000
 	return
 	
 Right:
